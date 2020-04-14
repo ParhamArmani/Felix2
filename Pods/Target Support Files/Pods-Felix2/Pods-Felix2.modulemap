@@ -1,0 +1,6 @@
+framework module Pods_Felix2 {
+  umbrella header "Pods-Felix2-umbrella.h"
+
+  export *
+  module * { export * }
+}
