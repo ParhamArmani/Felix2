@@ -18,8 +18,6 @@
 
 
 #### Phase One
-<img src="http://g.recordit.co/PlQWlA35yj.gif" width=250><br>
-
 #### Phase Two
 <img src="http://g.recordit.co/No3um9QLbg.gif" width=250><br>
 
