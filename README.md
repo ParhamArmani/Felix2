@@ -12,7 +12,7 @@
 - [x] (2pt) User can view the app on various device sizes and orientations.
 
 ### App Walkthrough GIF
-<img src="https://recordit.co/No3um9QLbg" width=250><br>
+<img src="http://g.recordit.co/No3um9QLbg.gif" width=250><br>
 
 
 
