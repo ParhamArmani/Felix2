@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E07B8E37-57B9-4CC6-AC0B-EC7E262FB63A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "566847FA-2105-43C1-A978-D6E6047387F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Felix2/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6F8966F-EDD2-44EF-ABB0-E4804907DD41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Felix2/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MovieDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D6F8966F-EDD2-44EF-ABB0-E4804907DD41 - 519828511cb70b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Felix2.MovieDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Felix2.MovieDetailViewController"
+                  moduleName = "Felix2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parhamarmani/Google%20Drive/Books%20+%20NOTES/IOS%20/Felix2/Felix2/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "602">
+               </Location>
+               <Location
+                  uuid = "D6F8966F-EDD2-44EF-ABB0-E4804907DD41 - c7ee694a6b626847"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Felix2.MovieDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Felix2.MovieDetailViewController&gt;"
+                  moduleName = "Felix2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parhamarmani/Google%20Drive/Books%20+%20NOTES/IOS%20/Felix2/Felix2/MovieDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "543">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

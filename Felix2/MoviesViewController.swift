@@ -9,7 +9,7 @@
 import UIKit
 import AlamofireImage
 
-class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource  {
+class MoviesViewController: UIViewController,UITableViewDelegate,UITableViewDataSource  {
     var movies = [[String:Any]]()
     @IBOutlet weak var tableView: UITableView!
 
@@ -33,7 +33,6 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
               // TODO: Get the array of movies
               // TODO: Store the movies in a property to use elsewhere
               // TODO: Reload your table view data
-            print(self.movies.count)
 
             }
             
@@ -56,5 +55,13 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
         return cell
     }
 
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let cell = sender as! UITableViewCell
+        let indexPath = tableView.indexPath(for:cell)!
+        let movie = movies[indexPath.row]
+        let detailsViewController = segue.destination as!MovieDetailViewController
+        detailsViewController.movie = movie
+        tableView.deselectRow(at: indexPath, animated: true)
+    }
     
 }
