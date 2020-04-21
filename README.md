@@ -17,7 +17,6 @@
 ### App Walkthrough GIF
 
 
-#### Phase One
 #### Phase Two
 <img src="http://g.recordit.co/No3um9QLbg.gif" width=250><br>
 
